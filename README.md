@@ -51,7 +51,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&count_private=true" alt="Jaskirat's GitHub Stats">
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/wakatime?username=JasScript&count_private=true" alt="Jas-Script" />
 
 ----
 Credit: [Jas-Script](https://github.com/Jas-Script)
