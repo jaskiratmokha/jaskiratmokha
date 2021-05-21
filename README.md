@@ -50,10 +50,10 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&count_private=true" alt="Jaskirat's GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script" alt="Jaskirat's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script" alt="Jaskirat's GitHub Stats" width=500 height=500>
 
 
 ----
 Credit: [Jas-Script](https://github.com/Jas-Script)
 
-Last Edited on: 04/01/2021
+Last Edited on: 21/05/2021
