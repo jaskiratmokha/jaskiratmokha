@@ -32,6 +32,7 @@ I'm a 2nd year student pursuing Bachelors in Computer Science Engineering 🎓 f
   <a href="https://www.instagram.com/jaskirat.mokha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </p>
 <p align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sjai37ozrfvr4mgmkafk5tv3uy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <img src="https://activity-graph.herokuapp.com/graph?username=Jas-Script&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Jas-Script&custom_title=Jaskirat+Singh's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
