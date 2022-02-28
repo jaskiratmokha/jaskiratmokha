@@ -38,7 +38,7 @@ I'm a 2nd year student pursuing Bachelors in Computer Science Engineering 🎓 f
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p>
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sjai37ozrfvr4mgmkafk5tv3uy&cover_image=true&theme=novatorem">
+
 
 
 
