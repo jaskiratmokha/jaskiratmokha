@@ -6,6 +6,7 @@ I'm a 3rd year student pursuing Bachelors in Computer Science Engineering 🎓 f
 -  🤝 I’m looking to collaborate on more open source projects
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 🌐 Have a look at my [Portfolio](https://jaskirat.works/)
 ## ⚡ Tech Stack
 ### 🚀 Languages
 
