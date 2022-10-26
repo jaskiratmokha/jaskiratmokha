@@ -1,4 +1,4 @@
-![header banner](https://raw.githubusercontent.com/jaskiratmokha/jaskiratmokha/main/Blue%20Modern%20Manager%20Marketing%20Linkedin%20Article%20Cover%20(1).png)
+![header banner](https://raw.githubusercontent.com/jaskiratmokha/jaskiratmokha/main/Blue%20Modern%20Manager%20Marketing%20Linkedin%20Article%20Cover.png)
 
 ## About Me
 I'm a 3rd year student pursuing Bachelors in Computer Science Engineering 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨.. I'm currently learning Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
