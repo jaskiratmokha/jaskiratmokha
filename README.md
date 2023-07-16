@@ -65,7 +65,7 @@ I'm a 3rd year student pursuing Bachelors in Computer Science Engineering 🎓 f
 ### My Github Stats:
 <div align="center">
 
-![sdf](https://github-profile-trophy.vercel.app/?username=jaskiratmokha&theme=light&margin-w=15&margin-h=15&column=9&v=1)
+![sdf](https://github-profile-trophy.vercel.app/?username=jaskiratmokha&theme=light&margin-w=15&margin-h=15&column=10&v=1)
    
 
   <img width="370px" src="https://github-readme-stats.vercel.app/api?username=jaskiratmokha&custom_title=Jaskirat+Singh's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
